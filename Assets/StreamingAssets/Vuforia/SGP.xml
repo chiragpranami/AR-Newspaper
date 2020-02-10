@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Sachin" size="10.000000 9.175628" />
+    <ImageTarget name="Lions" size="10.000000 6.484076" />
+    <ImageTarget name="Modi" size="10.000000 9.074200" />
+    <ImageTarget name="Disha" size="10.000000 28.707533" />
+    <ImageTarget name="LandRover" size="10.000000 3.838191" />
+    <ImageTarget name="Kohli" size="10.000000 10.995952" />
+    <ImageTarget name="Jadeja" size="10.000000 5.331686" />
+    <ImageTarget name="Arsenal" size="10.000000 10.792253" />
+    <ImageTarget name="Honda" size="10.000000 12.987737" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,2 @@
+D:\unity prac\SGP\obj\Debug\VuforiaScripts.csprojAssemblyReference.cache
+D:\unity prac\SGP\obj\Debug\VuforiaScripts.csproj.CoreCompileInputs.cache
